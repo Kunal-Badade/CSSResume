@@ -1,0 +1,148 @@
+body{
+  margin:0;
+  text-align: center;
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Patrick Hand', cursive;
+font-size: 120%;
+color: #40514E;
+
+
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h1{
+  font-size: 562.5%;
+  font-family: 'BenchNine', sans-serif;
+  color: #95e1d3;
+  margin-top: 100px;
+  margin-bottom: 10px;
+
+}
+h2,h3{
+  font-size: 300.5%;
+  font-family: 'BenchNine', sans-serif;
+  color: #f38181;
+  padding-bottom: 10px;
+
+}
+
+.top-container{
+  background-color: #fce38a;
+
+  position: relative;
+  padding-top: 100px;
+  font-weight: normal;
+
+
+}
+.copyright{
+  color:#eaf6f6;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+.i-am{
+  margin-top: 0px;
+    font-size: 150%;
+    font-weight: normal;
+    color: #95e1d3;
+}
+
+.middle-container{
+  margin: 100px 0 100px 0;
+
+}
+.bottom-container{
+  background-color: #95e1d3;
+  padding:50px 0 50px;
+
+}
+a{
+  font-family: 'BenchNine', sans-serif;
+  color: #fce38a;
+  margin: 10px 20px ;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+.mountain-img{
+
+  width:500px;
+}
+.top-cloud{
+  position: absolute;
+  left:600px;
+  bottom:  590px;
+  width: 500px;
+  height:300px;
+}
+.bottom-cloud{
+  position: absolute;
+  width: 500px;
+  height:300px;
+  right:600px;
+  bottom: 370px;
+}
+.Profile-pic{
+
+  width: 20% ;
+  border-radius: 30%
+
+
+}
+.Skill-pic{
+  float: left;
+  margin-right: 30px;
+  margin-top: 0;
+  width: 25%;
+
+}
+.muscle-img{
+  float: right;
+  margin-left: 0px;
+  margin-top: 20px;
+
+  width: 25%;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+}
+.contact-message{
+  width:40%;
+  margin:40px auto 60px;
+
+}
+.btn {
+  background: #4fbda7;
+  background-image: -webkit-linear-gradient(top, #4fbda7, #3b8f8f);
+  background-image: -moz-linear-gradient(top, #4fbda7, #3b8f8f);
+  background-image: -ms-linear-gradient(top, #4fbda7, #3b8f8f);
+  background-image: -o-linear-gradient(top, #4fbda7, #3b8f8f);
+  background-image: linear-gradient(to bottom, #4fbda7, #3b8f8f);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'BenchNine', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #5fc7c7;
+  background-image: -webkit-linear-gradient(top, #5fc7c7, #5fc7c7);
+  background-image: -moz-linear-gradient(top, #5fc7c7, #5fc7c7);
+  background-image: -ms-linear-gradient(top, #5fc7c7, #5fc7c7);
+  background-image: -o-linear-gradient(top, #5fc7c7, #5fc7c7);
+  background-image: linear-gradient(to bottom, #5fc7c7, #5fc7c7);
+  text-decoration: none;
+}
